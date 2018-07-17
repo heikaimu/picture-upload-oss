@@ -1,4 +1,4 @@
-基于vue的七牛图片上传组件
+基于阿里OSS的vue图片上传组件
 
 [演示地址](http://39.108.140.212/picture-upload-qn/index.html)
 
