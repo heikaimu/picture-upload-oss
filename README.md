@@ -8,6 +8,12 @@ npm i picture-upload-oss -S
 ```
 
 ### 引入
+
+index.html
+```
+<script src="//gosspublic.alicdn.com/aliyun-oss-sdk-4.3.0.min.js"></script>
+```
+
 test.vue
 ```
 import PictureUploadOss from './lib/picture-upload-oss';
